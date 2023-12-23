@@ -1,0 +1,14 @@
+Blog Application Apis:
+Features:
+- User CRUD 
+- Blog CRUD
+Auth: (Bearar Token)
+- Login 
+- Registration
+
+
+Need to provide
+- ERD 
+- Apis
+- postman collections json
+- deploy on live for test
